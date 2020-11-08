@@ -2,6 +2,8 @@
 
 !!!Please refer to baseball_challege_final.ipynb, the powerpoint, and this readme for project documentation and code!!!
 
+Per instructor's suggestion I created my own repo to store things in. The repo we worked on the project from (with all the commits) is here: https://github.com/eerofeeva/BaseballMadness
+
 Baseball and Money – Project 1 As a group, we decided to use a dataset from Kaggle.com called Baseball Databank (https://www.kaggle.com/open-source-sports/baseball-databank). There are several CSV files including data on players, teams, salaries, and playoff games that enabled us to develop some interesting questions. These questions include:
 1.	For teams that make it to the playoffs, does high spending on player salaries mean they win more often?
 2.	Do “star players” make a big enough difference that they justify their contracts?
