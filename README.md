@@ -2,7 +2,7 @@
 
 Please refer to baseball_challege.ipynb, the powerpoint, and this readme for project documentation and code.
 
-We had an accident where someone overwrote something they sgoulsn't have. We were weren't able to all reconnect to straighten it out until today.
+Someone accidently overwrote another person's updates on Saturday afternoon. We were weren't able to all reconnect to straighten it out until today.
 
 Per instructor's suggestion I created my own repo to store things in. The repo we worked on the project from (with all the commits) is here: https://github.com/eerofeeva/BaseballMadness
 
