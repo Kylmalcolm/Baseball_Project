@@ -1,6 +1,6 @@
 # Baseball_Project
 
-!!!Please refer to baseball_challege_final.ipynb, the powerpoint, and this readme for project documentation and code!!!
+!!!Please refer to baseball_challege.ipynb, the powerpoint, and this readme for project documentation and code!!!
 
 Per instructor's suggestion I created my own repo to store things in. The repo we worked on the project from (with all the commits) is here: https://github.com/eerofeeva/BaseballMadness
 
